@@ -4,4 +4,4 @@
 
 NPC1 48*70
 Dungeon 97*169
-Character 47*72
+Character 49*72
